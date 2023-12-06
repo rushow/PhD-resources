@@ -1,3 +1,9 @@
+> # 🇵🇸 FREE PALESTINE!
+> Israel is killing tens of thousands of palestinian civilians and displacing millions more. **It's a genocide**. Please help defend their freedom and Palestine's right to exist.
+
+---
+
+
 # PhD-resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of carefully selected tools and resources I wish I knew when starting my PhD. All of these tools make your life SO MUCH easier and are both for early career as well as more senior researchers (or even if you are not in academia, for that matter). 
