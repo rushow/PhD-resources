@@ -32,7 +32,6 @@ A curated list of carefully selected tools and resources I wish I knew when star
     - [Version control](#version-control)
     - [Visualization](#visualization)
     - [Writing](#writing)
-- [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
 
 <!-- /MarkdownTOC -->
 
